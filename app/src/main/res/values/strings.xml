@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageGalleryDemo</string>
+    <string-array name="Cars">
+        <item> Maruti </item>
+        <item> Honda </item>
+        <item> Hundai </item>
+    </string-array>
+</resources>
